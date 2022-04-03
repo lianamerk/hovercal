@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+.DS_Store
+*~
+*.html
+__pycache__
+.cache
+bebi103.egg-info/
+build/
+dist/

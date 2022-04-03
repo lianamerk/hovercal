@@ -3,4 +3,4 @@ pandas
 bokeh
 holoviews
 panel
-glob
+twine==1.13.0

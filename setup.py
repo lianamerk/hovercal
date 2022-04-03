@@ -12,7 +12,7 @@ setup(
     author='Liana Merk',
     author_email='liana.merk@gmail.com',
     packages=find_packages(),
-    install_requires=['numpy','scipy','pandas', 'bokeh','holoviews','panel', 'glob'],
+    install_requires=['numpy','pandas', 'bokeh','holoviews','panel'],
     include_package_data=True,
     classifiers=[
         "Programming Language :: Python :: 3.7",
