@@ -4,14 +4,14 @@ long_description = "hovercal uses holoviews to create customizable plots from pa
 
 setup(
     name="hovercal",
-    version="0.0.2",
+    version="0.0.3",
     description="hovercal is a package for visualizing data on a calendar heatmap",
     url="https://github.com/lianamerk/hovercal",
     long_description=long_description,
     license="MIT",
     author='Liana Merk',
     author_email='liana.merk@gmail.com',
-    packages=find_packages(),
+    packages=find_packages(exclude=['docs', 'tests*']),
     install_requires=['numpy','pandas', 'bokeh','holoviews','panel'],
     include_package_data=True,
     classifiers=[
