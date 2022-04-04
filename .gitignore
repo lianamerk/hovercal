@@ -4,6 +4,6 @@
 *.html
 __pycache__
 .cache
-bebi103.egg-info/
+hovercal.egg-info/
 build/
 dist/

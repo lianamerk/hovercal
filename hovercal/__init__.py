@@ -1,9 +1,8 @@
-from . import prep
-
-from . import viz
+from .prep import *
+from .viz import *
 
 
 __author__ = "Liana Merk"
-__version__ = "0.0.1"
+__version__ = "0.0.2"
 __license__ = "MIT"
 __email__ = "liana.merk@gmail.com"

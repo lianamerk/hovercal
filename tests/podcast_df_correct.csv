@@ -1,0 +1,173 @@
+date,mPlayed,day,month,year,date_time,episode_name,unique_episodes
+2020-06-16,78.21584999999999,16,6,2020,2020-06-16 03:19:11,"{'Episode 2: Horus Takes Flight', 'Episode 1: The Two Lands'}",2
+2020-06-17,62.46576666666667,17,6,2020,2020-06-17 15:21:51,"{'Interlude: Infinite Waters', 'Episode 2: Horus Takes Flight', 'Episode 1: The Two Lands', 'Episode 3: Horus vs Seth'}",4
+2020-06-18,38.28893333333333,18,6,2020,2020-06-18 03:36:57,{'Episode 4: The Sacred Ones'},1
+2020-06-20,6.900416666666667,20,6,2020,2020-06-20 18:20:34,{'Episode 4: The Sacred Ones'},1
+2020-06-25,7.697116666666667,25,6,2020,2020-06-25 20:36:14,{'Episode 4: The Sacred Ones'},1
+2020-06-27,66.89923333333333,27,6,2020,2020-06-27 01:11:15,"{'Episode 6: The Ram-God Protects Him', 'Episode 5: One Who Makes Beautiful Things'}",2
+2020-06-28,88.48996666666667,28,6,2020,2020-06-28 02:13:49,"{'Episode 4: The Sacred Ones', 'Mini Episode: Tales of Wonder', 'Episode 8: That Which I Own', 'Episode 7: He Appears Like the Sun', 'Episode 6: The Ram-God Protects Him', 'Episode 5: One Who Makes Beautiful Things'}",6
+2020-07-05,33.76606666666667,5,7,2020,2020-07-05 05:08:11,{'Episode 8: That Which I Own'},1
+2020-07-08,16.64453333333333,8,7,2020,2020-07-08 21:19:18,{'Episode 6: The Ram-God Protects Him'},1
+2020-07-10,10.80055,10,7,2020,2020-07-10 20:57:28,"{'Episode 7: He Appears Like the Sun', 'Episode 6: The Ram-God Protects Him', 'Episode 8: That Which I Own'}",3
+2020-07-11,17.8902,11,7,2020,2020-07-11 17:19:55,{'Episode 8: That Which I Own'},1
+2020-07-12,17.084516666666666,12,7,2020,2020-07-12 21:01:23,{'Episode 9: She Is Foremost'},1
+2020-07-14,0.4431,14,7,2020,2020-07-14 03:33:54,{'Episode 8: That Which I Own'},1
+2020-07-19,19.35435,19,7,2020,2020-07-19 18:43:56,{'Episode 9: She Is Foremost'},1
+2020-07-21,32.03265,21,7,2020,2020-07-21 17:35:02,{'Episode 10: A Temple To The Sun'},1
+2020-07-22,16.76856666666667,22,7,2020,2020-07-22 23:54:59,{'Episode 11: Off To Punt We Go'},1
+2020-07-23,17.58195,23,7,2020,2020-07-23 00:03:41,"{'Episode 11: Off To Punt We Go', 'Episode 12: I Make the Soul Beautiful'}",2
+2020-07-24,12.960216666666666,24,7,2020,2020-07-24 21:17:30,{'Episode 12: I Make the Soul Beautiful'},1
+2020-07-31,77.75928333333333,31,7,2020,2020-07-31 02:30:47,"{""Episode 14: The Joy of Re's Heart"", 'Episode 13: The Hairdressers Cometh', 'Episode 12: I Make the Soul Beautiful'}",3
+2020-08-02,30.567066666666665,2,8,2020,2020-08-02 02:40:16,{'Episode 15: The Enduring Ka'},1
+2020-08-04,30.984783333333333,4,8,2020,2020-08-04 02:22:16,{'Episode 16: An Indestructible Spirit'},1
+2020-08-06,12.361616666666666,6,8,2020,2020-08-06 20:38:12,{'Episode 16: An Indestructible Spirit'},1
+2020-08-07,82.2133,7,8,2020,2020-08-07 01:34:20,"{'Episode 17: A New Era', 'Interview: Alcohol and Economics (with Prof. Leslie Anne Warden)'}",2
+2020-08-09,144.28901666666667,9,8,2020,2020-08-09 22:40:22,"{'Episode 22: Pepy Lives', 'Episode 20: Expeditions and Explorers', 'Episode 23:  Children of Pepy', 'Episode 18: The Guards Themselves', 'Episode 19: The Beloved of Re, Pepy', 'Episode 21: The Excited Child'}",6
+2020-08-11,17.597333333333335,11,8,2020,2020-08-11 20:15:20,{'Episode 24: Lamentations'},1
+2020-08-14,76.61191666666667,14,8,2020,2020-08-14 02:08:23,"{'Episode 25: A Fire in the South', 'Episode 24: Lamentations', 'Episode 26: The Fire Rises'}",3
+2020-08-15,47.12913333333333,15,8,2020,2020-08-15 17:52:59,"{'Introducing: The Middle Kingdom', '28: The King in the North', '27: A Walk in the Desert'}",3
+2020-08-16,0.0,16,8,2020,2020-08-16 01:34:28,{'29: The War God'},1
+2020-08-18,0.0,18,8,2020,2020-08-18 01:42:35,{'Introducing: The Middle Kingdom'},1
+2020-08-19,46.182833333333335,19,8,2020,2020-08-19 02:48:34,"{'29: The War God', '31: Seven Empty Years', '30: Smooth Sailing on the Red Sea'}",3
+2020-08-20,79.53775,20,8,2020,2020-08-20 00:25:32,"{'31: Seven Empty Years', '33: Revivals and Regencies', '32: The Repeating of Births'}",3
+2020-08-21,35.319050000000004,21,8,2020,2020-08-21 14:18:31,"{'33: Revivals and Regencies', '34: Night of the Long Knives'}",2
+2020-08-22,74.21686666666668,22,8,2020,2020-08-22 17:51:02,"{'35: From Father to Son', '36: The White Chapel', '37: Imperial Projects', '34: Night of the Long Knives'}",4
+2020-08-23,102.86533333333334,23,8,2020,2020-08-23 01:53:12,"{'40: Feasting, Laughing and Dancing', '39: The Wealth of Asia', '38: Burial Rites', '37: Imperial Projects'}",4
+2020-08-24,26.368666666666666,24,8,2020,2020-08-24 19:12:19,"{'40: Feasting, Laughing and Dancing', '39: The Wealth of Asia', '41: The Oasis'}",3
+2020-08-25,3.066,25,8,2020,2020-08-25 02:08:11,{'41: The Oasis'},1
+2020-08-26,2.8785,26,8,2020,2020-08-26 19:46:06,{'41: The Oasis'},1
+2020-08-28,0.22328333333333333,28,8,2020,2020-08-28 04:19:55,{'Episode 1: The Two Lands'},1
+2020-09-07,50.32131666666667,7,9,2020,2020-09-07 15:20:53,"{'43: Dominion Over All', '41: The Oasis', '42: Underworld'}",3
+2020-09-10,52.122816666666665,10,9,2020,2020-09-10 01:41:00,"{'Mini Episode: Happy Valentines', '43: Dominion Over All', 'Episode 44: The Shipwrecked Sailor'}",3
+2020-09-16,45.71733333333333,16,9,2020,2020-09-16 02:16:04,"{'45: The Book of Two Ways', 'Episode 44: The Shipwrecked Sailor'}",2
+2020-09-24,33.3103,24,9,2020,2020-09-24 22:40:24,{'45: The Book of Two Ways'},1
+2020-09-25,60.89565,25,9,2020,2020-09-25 01:49:30,"{'Episode 46: Crushing Our Enemies', 'Episode 47: Strong Ruler(s)'}",2
+2020-10-06,28.60275,6,10,2020,2020-10-06 12:19:32,"{'Episode 48: End of an Era', 'Episode 47: Strong Ruler(s)'}",2
+2020-10-07,0.040683333333333335,7,10,2020,2020-10-07 19:57:26,{'Episode 48: End of an Era'},1
+2020-10-09,0.33126666666666665,9,10,2020,2020-10-09 00:44:36,{'Episode 48: End of an Era'},1
+2020-10-10,67.101,10,10,2020,2020-10-10 18:24:36,"{'Episode 1: The Two Lands', 'Episode 48: End of an Era', 'Episode 49: From One Era to Another'}",3
+2020-10-11,58.86581666666667,11,10,2020,2020-10-11 03:15:20,"{'Episode 51: Everywhere and Nowhere', 'Episode 52: Two Dynasties at Once', 'Episode 50: Between Two Worlds'}",3
+2020-11-09,50.05361666666667,9,11,2020,2020-11-09 01:30:28,"{'Episode 54: The Three Kingdoms', 'Episode 52: Two Dynasties at Once', 'Episode 53: Rulers of Foreign Lands'}",3
+2020-11-10,17.905666666666665,10,11,2020,2020-11-10 20:37:31,{'Episode 54: The Three Kingdoms'},1
+2020-11-11,37.8094,11,11,2020,2020-11-11 02:20:36,"{'Episode 55: Blood and Thunder', 'Episode 54: The Three Kingdoms'}",2
+2020-11-12,76.05398333333335,12,11,2020,2020-11-12 17:44:00,"{'56b: Restoring Splendour', 'Introducing: The New Kingdom', '56c: A Royal Funeral', '56: The Return of the King'}",4
+2020-11-19,122.37813333333334,19,11,2020,2020-11-19 08:30:16,"{'Episode 55: Blood and Thunder', '57: All Things Good and Pure', '56: The Return of the King', 'Mini-Episode: Dancers for God', 'Introducing: The New Kingdom', '56c: A Royal Funeral', '56b: Restoring Splendour'}",7
+2020-11-26,116.28745,26,11,2020,2020-11-26 01:34:35,"{'57: All Things Good and Pure', '58: The Great Turnaround', '59: The Song of Thutmose'}",3
+2020-12-02,8.424966666666666,2,12,2020,2020-12-02 16:44:37,{'59: The Song of Thutmose'},1
+2020-12-03,53.6597,3,12,2020,2020-12-03 08:33:23,"{'60: Thutmosid Family Values', 'Episode 62: Holy of Holies', '61: The Two Lands Serve Her'}",3
+2020-12-04,28.44355,4,12,2020,2020-12-04 01:14:21,"{'62b: The Divine Birth of Hatshepsut', 'Episode 62: Holy of Holies'}",2
+2020-12-06,105.92753333333333,6,12,2020,2020-12-06 15:58:52,"{'62b: The Divine Birth of Hatshepsut', '65: Hatshepsut of Millions of Years', ""63: Hatshepsut's Excellent Adventure"", '64: Beloved Uncle'}",4
+2020-12-07,47.881083333333336,7,12,2020,2020-12-07 00:00:32,{'65: Hatshepsut of Millions of Years'},1
+2020-12-08,29.696250000000003,8,12,2020,2020-12-08 22:41:25,{'65b: Two Texts of Hatshepsut'},1
+2020-12-09,40.879983333333335,9,12,2020,2020-12-09 20:10:53,"{'65c: Little King Thutmose', '65b: Two Texts of Hatshepsut'}",2
+2020-12-10,94.74173333333334,10,12,2020,2020-12-10 20:56:47,"{'65c: Little King Thutmose', '66: An Awkward Transition', 'Mini-Episode: An Egyptian Horror Story'}",3
+2020-12-12,10.339883333333333,12,12,2020,2020-12-12 00:36:12,{'67: Armageddon'},1
+2020-12-16,15.890733333333333,16,12,2020,2020-12-16 18:13:47,{'67: Armageddon'},1
+2020-12-30,34.47363333333333,30,12,2020,2020-12-30 00:23:09,"{'67: Armageddon', '67b: The Battle of Megiddo (A Dramatic Reading)', '68: Campaigns of Victory'}",3
+2021-01-01,58.31895,1,1,2021,2021-01-01 19:33:07,"{'68b: Deception at Joppa', '68: Campaigns of Victory'}",2
+2021-01-02,40.228,2,1,2021,2021-01-02 06:21:27,"{'68b: Deception at Joppa', '69: North by Northwest'}",2
+2021-01-03,77.04378333333332,3,1,2021,2021-01-03 18:55:38,"{'70: The Napoleon of Egypt', '69: North by Northwest', 'Mini Episode: New Years Festivities'}",3
+2021-01-19,82.10448333333333,19,1,2021,2021-01-19 17:45:17,"{'Mini Episode: The First Pharaohs', 'Mini Episode: New Years Festivities', '71: Thirty-Two and Thirty', 'Mini Episode: Inauguration Day'}",4
+2021-01-20,0.0,20,1,2021,2021-01-20 20:46:36,{'72: The Home Front (Letters to Ahmose)'},1
+2021-02-02,68.97701666666667,2,2,2021,2021-02-02 15:19:38,"{'Mini Episode: Opet Festivities', '73: The Three Princesses', '72: The Home Front (Letters to Ahmose)'}",3
+2021-02-04,18.26835,4,2,2021,2021-02-04 07:09:39,{'73: The Three Princesses'},1
+2021-02-13,40.20016666666667,13,2,2021,2021-02-13 22:15:00,"{'73: The Three Princesses', 'Mini Episode: Hathor Festivities'}",2
+2021-02-14,11.781216666666667,14,2,2021,2021-02-14 20:26:22,{'74: War Stories'},1
+2021-02-20,36.7925,20,2,2021,2021-02-20 18:18:31,{'74: War Stories'},1
+2021-02-21,11.187,21,2,2021,2021-02-21 02:38:44,{'75: Thutmose Triumphant'},1
+2021-02-22,80.73045,22,2,2021,2021-02-22 04:34:22,"{'75: Thutmose Triumphant', 'Mini Episode: Khoiak Festivities'}",2
+2021-02-23,101.11036666666666,23,2,2021,2021-02-23 01:52:10,"{'77: Lean and Swift', '76: 54 Years of Splendour'}",2
+2021-02-24,69.10846666666667,24,2,2021,2021-02-24 17:16:59,"{'79: Let My People Go', '78: The Duties of the Vizier', 'Mini Episode: Banquet Festivities'}",3
+2021-02-25,64.69845,25,2,2021,2021-02-25 04:56:26,"{'79: Let My People Go', '80: Servant of Great Gods'}",2
+2021-02-28,119.69543333333334,28,2,2021,2021-02-28 15:45:35,"{'Mini Episode: Onion Festivities', '82: That Which Is In The Underworld', '80: Servant of Great Gods', 'Mini Episode: Festivities of Heat', '81: The Book of the Dead'}",5
+2021-03-01,49.317566666666664,1,3,2021,2021-03-01 01:38:21,"{'84: The Bald Falcon', '83: The Brat Pack'}",2
+2021-03-02,126.53601666666667,2,3,2021,2021-03-02 16:26:54,"{'85: A Clash of Princes', ""Assassin's Creed Origins: Egyptological Impressions"", '84: The Bald Falcon', 'Episode 1: The Two Lands', 'Mini Episode: Flower Festivities', '84b: Into the Tomb'}",6
+2021-03-03,16.854416666666665,3,3,2021,2021-03-03 05:25:56,{'85: A Clash of Princes'},1
+2021-03-04,5.364566666666667,4,3,2021,2021-03-04 22:29:29,{'85: A Clash of Princes'},1
+2021-03-06,7.1250333333333336,6,3,2021,2021-03-06 19:10:36,"{""86: Doing God's Work""}",1
+2021-03-07,276.7982666666667,7,3,2021,2021-03-07 18:43:38,"{""86: Doing God's Work"", 'Mini Episode: Birthday Festivities', 'Syrian Tales (2): Crossroads and Conflict', 'Announcement: Syrian Tales (Charity Miniseries)', '89: Lords of the Desert', '88: Lady of the Lake', '87: Comforts of Power', ""90: Neb-Ma'at-Re"", 'Syrian Tales (3): The Refugee Prince', 'Syrian Tales (1): Roots'}",10
+2021-03-08,102.21288333333334,8,3,2021,2021-03-08 17:12:57,"{""90: Neb-Ma'at-Re"", 'Syrian Tales (3): The Refugee Prince', '91: The Mighty Bulls', '92: The Great Lady'}",4
+2021-03-11,19.61495,11,3,2021,2021-03-11 16:27:46,"{'93: The River War', 'Mini Episode: Love Songs'}",2
+2021-03-13,30.20488333333333,13,3,2021,2021-03-13 23:48:54,{'93: The River War'},1
+2021-03-14,227.51506666666666,14,3,2021,2021-03-14 15:25:02,"{'97b: The In-Laws', '97: What Does The Scarab Say?', 'Mini Episode: All Is Full of Love (The Embrace)', '94: The Pools of Horus', '95: Hundred-Gated Thebes', 'Mini Episode: Memphis River Blues (The Healing)', '96: The Colossi of Memnon'}",7
+2021-03-15,20.1363,15,3,2021,2021-03-15 14:46:43,{'Mini Episode: Music in Ancient Egypt (Part 1)'},1
+2021-03-19,34.59306666666667,19,3,2021,2021-03-19 21:02:32,{'Mini Episode: Music in Ancient Egypt (Part 1)'},1
+2021-03-20,35.2556,20,3,2021,2021-03-20 18:36:28,{'Mini Episode: Music in Ancient Egypt (Part 2) with Jeffrey Goodman'},1
+2021-03-21,27.409983333333333,21,3,2021,2021-03-21 01:07:54,{'98: Young Bull Appearing In Memphis'},1
+2021-03-22,8.4518,22,3,2021,2021-03-22 21:57:12,{'98: Young Bull Appearing In Memphis'},1
+2021-03-31,58.682883333333336,31,3,2021,2021-03-31 15:01:56,"{'100: Celebration', 'Patreon!', ""99: Sakhmet's Demons"", '98: Young Bull Appearing In Memphis'}",4
+2021-04-09,182.23478333333333,9,4,2021,2021-04-09 22:38:46,"{'Question Time! (Q+A)', 'Mini Episode: The Lost Son (A Lament)', ""101: Hapu's Son"", '100b. Raising the Children High', '100: Celebration', 'Mini Episode: A Wayward Scribe (The Drinking)'}",6
+2021-04-10,116.63636666666667,10,4,2021,2021-04-10 15:04:46,"{'Full Interview: Egyptian Religion with Dr Campbell Price (Manchester)', '101b: Successful Statues (with Dr. Campbell Price)'}",2
+2021-04-11,59.654583333333335,11,4,2021,2021-04-11 01:30:40,"{'103: The House of Rejoicing (Malqata Palace)', '102: An Egyptian Odyssey (Passage to Greece)'}",2
+2021-04-23,37.87408333333333,23,4,2021,2021-04-23 22:29:43,{'102b: Colourful Keftiu (Twilight on Crete)'},1
+2021-04-24,0.0,24,4,2021,2021-04-24 22:47:37,{'102: An Egyptian Odyssey (Passage to Greece)'},1
+2021-05-07,34.49243333333333,7,5,2021,2021-05-07 23:25:52,"{'103: The House of Rejoicing (Malqata Palace)', 'Mini Episode: An Intact Tomb'}",2
+2021-05-20,73.89923333333334,20,5,2021,2021-05-20 16:59:37,"{'Mini Episode: Egyptian Dinosaurs', 'Mini Episode: An Intact Tomb', '104: A Wealthy House'}",3
+2021-05-26,33.63766666666667,26,5,2021,2021-05-26 23:57:54,{'104: A Wealthy House'},1
+2021-05-27,216.69693333333333,27,5,2021,2021-05-27 03:13:05,"{'Mini Episode: Songs in a Garden (The Seduction)', '108: AKA Amunhotep IV', '107: Looking Back', '107b: Queen Tiye (with Dr. Joyce Tyldesley)', '105: The Sun King', '106: Mail-Order Bride', '106b: Last Monuments (Bonus)'}",7
+2021-06-12,0.18033333333333335,12,6,2021,2021-06-12 20:37:48,{'108: AKA Amunhotep IV'},1
+2021-06-13,50.7635,13,6,2021,2021-06-13 21:36:23,"{'108: AKA Amunhotep IV', '109: Nefertiti (with Dr Joyce Tyldesley)'}",2
+2021-06-15,3.304883333333333,15,6,2021,2021-06-15 04:52:52,{'109: Nefertiti (with Dr Joyce Tyldesley)'},1
+2021-06-16,35.2897,16,6,2021,2021-06-16 04:43:40,{'109: Nefertiti (with Dr Joyce Tyldesley)'},1
+2021-06-19,30.031833333333335,19,6,2021,2021-06-19 01:23:04,{'110: The Aten Appears'},1
+2021-06-20,65.4971,20,6,2021,2021-06-20 22:43:18,"{'111: The Royal Gods', '110: The Aten Appears'}",2
+2021-06-22,6.13965,22,6,2021,2021-06-22 00:09:07,{'112: Artistic Revolution'},1
+2021-06-24,28.647333333333332,24,6,2021,2021-06-24 04:48:05,{'112: Artistic Revolution'},1
+2021-06-27,219.56449999999998,27,6,2021,2021-06-27 17:23:07,"{'113: Akh-en-Aten', '116: Adoring Aten', '112: Artistic Revolution', 'Summary: Akhenaten (Phase 1)', '115b: Building Quickly', '114b: Defining the Horizons', ""115: Hatiay's House"", '114: Seeds of a City'}",8
+2021-06-28,44.606683333333336,28,6,2021,2021-06-28 15:56:04,{'116: Adoring Aten'},1
+2021-07-01,107.7869,1,7,2021,2021-07-01 17:52:53,"{'Interview: Akhnaten (a MetOpera cast)', '117: Adoring Ra', '118: The House of Aten', '116: Adoring Aten'}",4
+2021-07-08,95.75868333333334,8,7,2021,2021-07-08 19:02:37,"{'119: Tut-ankh-Aten', '118: The House of Aten', '118b: Priests and Provisions'}",3
+2021-07-11,36.07845,11,7,2021,2021-07-11 02:17:29,{'Mini Episode: The Tale of Two Brothers'},1
+2021-07-15,33.282833333333336,15,7,2021,2021-07-15 18:32:03,{'Mini Episode: The Tale of Two Brothers'},1
+2021-07-16,0.5138,16,7,2021,2021-07-16 12:47:07,{'Mini Episode: The Doomed Prince'},1
+2021-07-24,56.24098333333333,24,7,2021,2021-07-24 01:02:08,"{'120: Reverend Mother', '121: Festival of Tribute', 'Mini Episode: The Doomed Prince'}",3
+2021-08-12,94.41436666666667,12,8,2021,2021-08-12 01:54:22,"{'121: Festival of Tribute', 'Summary: Akhenaten (Phase 2)', 'Interview: Alcohol & Economics with Prof. Leslie Anne Warden'}",3
+2021-08-13,4.909083333333333,13,8,2021,2021-08-13 03:18:34,{'Interview: Alcohol & Economics with Prof. Leslie Anne Warden'},1
+2021-08-19,128.6583,19,8,2021,2021-08-19 23:05:45,"{'123: Amurrites and Where to Find Them', 'Interview: Ancient Lives with Prof. Elizabeth Frood', 'Interview: Alcohol & Economics with Prof. Leslie Anne Warden', '124: Amurrites 2, The Crimes of Aziru', '122: Letters from the Capital'}",5
+2021-08-21,15.583,21,8,2021,2021-08-21 22:24:19,"{'124: Amurrites 2, The Crimes of Aziru'}",1
+2021-08-25,51.959149999999994,25,8,2021,2021-08-25 20:38:44,"{'124: Amurrites 2, The Crimes of Aziru', '125: House of Meritaten'}",2
+2021-08-30,43.3135,30,8,2021,2021-08-30 23:30:16,"{'125: House of Meritaten', '125b: Maru Aten and North Palace'}",2
+2021-09-01,6.85735,1,9,2021,2021-09-01 20:28:53,{'125b: Maru Aten and North Palace'},1
+2021-09-02,8.388966666666667,2,9,2021,2021-09-02 00:20:31,{'125b: Maru Aten and North Palace'},1
+2021-09-20,50.36605,20,9,2021,2021-09-20 22:40:33,"{'125b: Maru Aten and North Palace', '126: The Death of Queen Tiye'}",2
+2021-09-21,31.535316666666667,21,9,2021,2021-09-21 17:02:22,{'127: Meket-Aten and Smenkh-Ka-Re'},1
+2021-09-27,36.53711666666667,27,9,2021,2021-09-27 02:47:46,"{'127: Meket-Aten and Smenkh-Ka-Re', '128: True Crime KV55 (DNA, CSI... etc)', 'Interview: Amarna Sunset with Prof. Aidan Dodson'}",3
+2021-10-10,20.280666666666665,10,10,2021,2021-10-10 12:23:54,{'Interview: Amarna Sunset with Prof. Aidan Dodson'},1
+2021-10-11,2.452,11,10,2021,2021-10-11 22:31:58,{'Interview: Amarna Sunset with Prof. Aidan Dodson'},1
+2021-11-14,126.90401666666668,14,11,2021,2021-11-14 19:26:50,"{'130: The Life and Death of Smenkhkare', '131: King Nefertiti', '129: Hard-Knock Life', 'Interview: Amarna Sunset with Prof. Aidan Dodson'}",4
+2021-11-15,0.00685,15,11,2021,2021-11-15 02:34:17,{'132: Iconic Nefertiti'},1
+2021-11-18,291.67661666666663,18,11,2021,2021-11-18 19:54:08,"{'Interview: Uncovering Amarna, with Dr. Chris Naunton', '133: The Heretic King', 'Interview: Egyptology, Science, and Media with Prof. Kara Cooney', '132: Iconic Nefertiti', 'Interview: Prof. Kara Cooney (Full Version)', 'Interview: Hatshepsut, Power, and the Mafia with Prof. Kara Cooney', 'Interview: The Cost of Death with Prof. Kara Cooney'}",7
+2021-11-19,126.77178333333333,19,11,2021,2021-11-19 21:18:24,"{'134: The Death of Akhenaten', '135: The Face(s) of Akhenaten', '134b: The Burial(s) of Akhenaten'}",3
+2021-11-20,49.432,20,11,2021,2021-11-20 04:19:19,"{'135: The Face(s) of Akhenaten', 'Show Update - End of 2020', 'Interview: Egyptian Heritage, with Heba abd el Gawad'}",3
+2021-11-21,37.75556666666667,21,11,2021,2021-11-21 03:55:07,"{'Fun: The Tomb Kings', 'Interview: Egyptian Heritage, with Heba abd el Gawad'}",2
+2021-11-23,48.93488333333333,23,11,2021,2021-11-23 16:28:05,"{'Interview: Nubian Egypt, with Dr. Aaron de Souza.', 'Interview: Egyptian Heritage, with Heba abd el Gawad'}",2
+2021-12-08,89.1309,8,12,2021,2021-12-08 10:09:57,"{'Interview: Nubian Egypt, with Dr. Aaron de Souza.', 'Interview: The Place and the People, with Fatma Keshk'}",2
+2021-12-09,15.545283333333334,9,12,2021,2021-12-09 07:18:42,"{'Interview: The Place and the People, with Fatma Keshk'}",1
+2021-12-11,1.8577666666666666,11,12,2021,2021-12-11 22:15:40,"{'Interview: The Place and the People, with Fatma Keshk'}",1
+2021-12-13,32.71445,13,12,2021,2021-12-13 18:12:06,"{'Exploring the Oases (The Dakhleh Oasis Project)', 'Interview: The Place and the People, with Fatma Keshk', 'Mini: Chief of the Medjay'}",3
+2021-12-14,24.78418333333333,14,12,2021,2021-12-14 14:39:59,"{'Summary: Akhenaten (Phase 3)', 'News: BIG Discovery at Saqqara'}",2
+2021-12-18,60.167716666666664,18,12,2021,2021-12-18 17:19:11,"{'136: Pharaoh Nefertiti (Nefer-neferu-Aten)', 'Summary: Akhenaten (Phase 3)', '137: The Death of Nefertiti'}",3
+2021-12-19,143.70986666666667,19,12,2021,2021-12-19 16:07:22,"{'140: Tutankhamun', 'Tour 2022: Who wants to visit Egypt?', '138: Lost Women of Amarna', 'Interview: Mummies! with Prof. Ann Rosalie David', '137b: The Tomb of Nefertiti', '139: King Tut-ankh-Aten', ""Mini: The Brutal Death of Seqenenre Ta'a""}",7
+2021-12-20,151.13355,20,12,2021,2021-12-20 08:27:33,"{'News: Aten Town, Luxor', '142c: Amurrites 3, Betrayal', '142b: Deeds of the Hittites', 'Mini: Mery-Neith, First Servant of Aten', ""News: The Pharaohs' Parade"", '141: The Restoration of Amun', '142: Wars in the North'}",7
+2021-12-24,28.594133333333332,24,12,2021,2021-12-24 17:39:56,"{'142c: Amurrites 3, Betrayal'}",1
+2021-12-25,12.256,25,12,2021,2021-12-25 15:05:45,{'143: The Boy King Tutankhamun'},1
+2022-02-06,27.64691666666667,6,2,2022,2022-02-06 03:18:37,{'143: The Boy King Tutankhamun'},1
+2022-02-07,25.96335,7,2,2022,2022-02-07 09:53:27,"{'143b: Fun and Fashion', '144: Maia, Menat'}",2
+2022-02-08,66.2176,8,2,2022,2022-02-08 13:06:36,"{'144b: Sennedjem, Menay', '144: Maia, Menat'}",2
+2022-02-09,38.249066666666664,9,2,2022,2022-02-09 05:09:58,"{'144b: Sennedjem, Menay', '145: Restoration II, Faces of the Gods', '145b: Funding the Regime'}",3
+2022-02-11,135.29063333333335,11,2,2022,2022-02-11 07:30:37,"{'Interview: An Ancient Lyre, with Michael Levy', '145b: Funding the Regime', 'Interview: Aten Worship, with Dr. Briana Jackson', 'Interview: Ancient Technologies, with Dr. Martin Odler', 'Patreon Update', ""146: Restoration III, Tut'ankhamun in Opet""}",6
+2022-02-13,8.042666666666667,13,2,2022,2022-02-13 14:39:13,"{""146: Restoration III, Tut'ankhamun in Opet""}",1
+2022-02-14,170.44051666666667,14,2,2022,2022-02-14 11:39:43,"{'147: Ankhesenamun', '148: The Life of Tutankhamun', ""149: The King's Men"", '150: Teenage Hunting Fighting Pharaoh', ""146: Restoration III, Tut'ankhamun in Opet""}",5
+2022-02-15,37.00675,15,2,2022,2022-02-15 09:12:37,"{'150: Teenage Hunting Fighting Pharaoh', '151: The Death of Tutankhamun'}",2
+2022-02-17,100.70321666666666,17,2,2022,2022-02-17 08:46:47,"{""Interview: Tutankhamun's World (with Prof. Nozomu Kawai)"", '152: An Unexpected Burial', '150: Teenage Hunting Fighting Pharaoh', 'Review: Tut (2015)', '153a: The Tomb of Tutankhamun (Part 1)', 'Schedule Update', '151: The Death of Tutankhamun'}",7
+2022-02-18,54.8544,18,2,2022,2022-02-18 03:04:53,{'153a: The Tomb of Tutankhamun (Part 1)'},1
+2022-02-20,70.91893333333334,20,2,2022,2022-02-20 10:03:43,"{'153b: The Tomb of Tutankhamun (Part 2)', '153a: The Tomb of Tutankhamun (Part 1)'}",2
+2022-02-22,47.1952,22,2,2022,2022-02-22 05:24:21,"{'153b: The Tomb of Tutankhamun (Part 2)', '153c: The Tomb of Tutankhamun (Part 3)'}",2
+2022-02-23,33.87146666666667,23,2,2022,2022-02-23 12:54:02,{'153c: The Tomb of Tutankhamun (Part 3)'},1
+2022-02-24,171.70413333333335,24,2,2022,2022-02-24 10:57:25,"{'153f: The Tomb of Tutankhamun (Part 6, Final)', '153e: The Tomb of Tutankhamun (Part 5)', '153d: The Tomb of Tutankhamun (Part 4)'}",3
+2022-02-25,155.42438333333334,25,2,2022,2022-02-25 01:08:46,"{""155: The Queen's Gambit"", '157: The Road to Kadesh', '154: Daḫamunzu (tA-Ḥmt-nswt)', ""156: Oh, Ay Just Can't Wait to be King""}",4
+2022-02-26,18.328883333333334,26,2,2022,2022-02-26 13:59:08,{'157: The Road to Kadesh'},1
+2022-02-27,86.61008333333334,27,2,2022,2022-02-27 13:31:37,"{'158b: Ay, jr.', '159b: Double Death', '158: What Ay Did', '159: End of an Era', '157b: Warlords'}",5
+2022-02-28,48.83545,28,2,2022,2022-02-28 00:21:15,{'Remaster 04b: Buried Pyramids'},1
+2022-03-01,0.0,1,3,2022,2022-03-01 13:53:53,{'Remaster 04b: Buried Pyramids'},1
+2022-03-06,31.832349999999998,6,3,2022,2022-03-06 18:41:53,"{'Remaster 04b: Buried Pyramids', 'Mini: Nefertiti and the Wreck of the Uluburun'}",2

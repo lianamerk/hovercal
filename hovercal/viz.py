@@ -8,6 +8,9 @@ import datetime
 import calendar
 from dateutil.relativedelta import relativedelta
 
+import bokeh
+import bokeh.io
+
 import panel as pn
 
 hv.extension('bokeh')
@@ -369,7 +372,7 @@ def year_heatmap(df,
         sub_df = df.loc[df.year == year]
     
         # Call single_year_heatmap with all the neccesary info
-        plot_list.append(single_year_heatmap(df=df,
+        plot_list.append(single_year_heatmap(sub_df=sub_df,
                                              year=year,
                                              month_separation_width = month_separation_width,
                                              month_separation_color = month_separation_color,
