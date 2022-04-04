@@ -30,15 +30,15 @@ fruit_df_prepped.head()
 ```
 Now we have a dataframe that might look something like this:
 
-|    | date                |   Fruit_servings | Fruit_type                         |   year |   month |   day |
-|---:|:--------------------|-----------------:|:-----------------------------------|-------:|--------:|------:|
-|  0 | 2020-02-29 00:00:00 |                2 | ['Papaya']                         |   2020 |       2 |    29 |
-|  1 | 2020-08-10 00:00:00 |                1 | ['Strawb', 'Grapefruit', 'Papaya'] |   2020 |       8 |    10 |
-|  2 | 2021-10-30 00:00:00 |                3 | ['Strawb', 'Bloob']                |   2021 |      10 |    30 |
-|  3 | 2021-10-16 00:00:00 |                2 | ['Grapefruit', 'Papaya']           |   2021 |      10 |    16 |
-|  4 | 2021-12-31 00:00:00 |                1 | ['Bloob']                          |   2021 |      12 |    31 |
+|    | date                |   Fruit_servings | Fruit_type                             |   year |   month |   day |
+|---:|:--------------------|-----------------:|:---------------------------------------|-------:|--------:|------:|
+|  0 | 2020-01-06 00:00:00 |                1 | {"['Grapefruit', 'Strawb']"}           |   2020 |       1 |     6 |
+|  1 | 2020-03-06 00:00:00 |                2 | {"['Grapefruit']"}                     |   2020 |       3 |     6 |
+|  2 | 2020-03-30 00:00:00 |                3 | {"['Bloob', 'Papaya']"}                |   2020 |       3 |    30 |
+|  3 | 2020-05-14 00:00:00 |                3 | {"['Grapefruit', 'Papaya', 'Strawb']"} |   2020 |       5 |    14 |
+|  4 | 2020-05-25 00:00:00 |                1 | {"['Grapefruit', 'Papaya']"}           |   2020 |       5 |    25 |
 
-Let's see what kind of plots we can make!
+Let's see what kinds of plots we can make!
 
 ``` python
 # Create a list of what columns we want to show up when we hover
@@ -142,7 +142,7 @@ podcast_df = hovercal.spotify_cleaner(spotify_df, 'The History of Egypt Podcast'
 podcast_df.head()
 ```
 
-||    | date       |   mPlayed |   day |   month |   year | date_time           | episode_name                                                                                                            |   unique_episodes |
+|    | date       |   mPlayed |   day |   month |   year | date_time           | episode_name                                                                                                            |   unique_episodes |
 |---:|:-----------|----------:|------:|--------:|-------:|:--------------------|:------------------------------------------------------------------------------------------------------------------------|------------------:|
 |  0 | 2020-06-16 |  78.2158  |    16 |       6 |   2020 | 2020-06-16 03:19:11 | {'Episode 2: Horus Takes Flight', 'Episode 1: The Two Lands'}                                                           |                 2 |
 |  1 | 2020-06-17 |  62.4658  |    17 |       6 |   2020 | 2020-06-17 15:21:51 | {'Interlude: Infinite Waters', 'Episode 2: Horus Takes Flight', 'Episode 1: The Two Lands', 'Episode 3: Horus vs Seth'} |                 4 |

@@ -4,7 +4,7 @@ long_description = "hovercal uses holoviews to create customizable plots from pa
 
 setup(
     name="hovercal",
-    version="0.0.3",
+    version="0.1.0",
     description="hovercal is a package for visualizing data on a calendar heatmap",
     url="https://github.com/lianamerk/hovercal",
     long_description=long_description,
