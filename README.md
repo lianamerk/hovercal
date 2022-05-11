@@ -108,13 +108,13 @@ fruit_panel_2
 ![fruit_example_2](https://github.com/lianamerk/hovercal/blob/6297bc712aed8271715a6e589a6ae77ec8755968/examples/fruit_hovercal_2.png)
 
 
-To remove the month separators, and have the full day name:
+To remove the month separators, and have the full day name. We can also show the bokeh tool bar using the kwarg `show_toolbar`:
 
 ``` python
 fruit_panel_3 = hovercal.year_heatmap(fruit_df_prepped,
              year_list = [2021],
              fig_height = 160,
-             show_toolbar=False,
+             show_toolbar=True,
              hover_columns = hov,
              cmap_color = 'Purples',
              value_column = 'Fruit_servings',
@@ -181,7 +181,7 @@ hov = ['episode_name', 'unique_episodes']
 pod_panel = hovercal.year_heatmap(podcast_df,
              [2020, 2021, 2022],
              fig_height = 160,
-             show_toolbar=True,
+             show_toolbar=False,
              hover_columns = hov,
              value_column = 'mPlayed',
              empty_color = '#FAFAFA',
@@ -197,5 +197,6 @@ pod_panel
 
 ![pod_example](https://github.com/lianamerk/hovercal/blob/6297bc712aed8271715a6e589a6ae77ec8755968/examples/podcast_hovercal.png)
 
-
+# Saving Plots
+Once you are happy with your hovercal plot, you can save it as a static hover-able html with `my_hovercal.save('filename.html')`. You can also save as an
 
