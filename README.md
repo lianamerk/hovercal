@@ -8,7 +8,7 @@ The input `dataframe` can have at minimum a column for unique dates (in YYYY-MM-
 
 ## Installation
 
-The easiest way to get hovercall up and running is to have a working [Jupyter] (https://jupyter.org/install) environment.
+The easiest way to get hovercall up and running is to have a working [Jupyter](https://jupyter.org/install) environment.
 
 ### If you are familiar with package management
 Install directly with `pip install hovercal`
