@@ -2,13 +2,13 @@
 
 hovercal uses [Holoviews](https://holoviews.org/) to create customizable plots from [Pandas](https://pandas.pydata.org/) timeseries data. It draws heavy inspiration from [calplot](https://github.com/tomkwok/calplot). Month delineator code was adapted from [rougier](https://github.com/rougier/calendar-heatmap/blob/master/github-activity.py). This package was built to visualize day-specific data, such as Spotify listening history:
 
-![podVIS](https://github.com/lianamerk/hovercal/blob/6297bc712aed8271715a6e589a6ae77ec8755968/examples/podvis.gif)
+![podVIS](https://github.com/lianamerk/hovercal/blob/main/examples/podvis.gif)
 
-The input `dataframe` can have at minimum a column for unique dates (in YYYY-MM-DD format) and values to be plotted. This can be passed through `df_prepper`, which creates a new column for day, month, and year. Alternatively, the best use-case is for [Spotify](www.spotify.com) extended listening history data, which can be requested under Account settings.Raw json files from this request, called `endsong_n.json` can be globbed together, then passed into `spotify_cleaner` along with the podcast of interest. Future editions will include panels to interact and select different artists or music genres. [Panel](https://panel.holoviz.org/) is used to create a global heatmap and arrange the plots. These can then be saved using the command `panel_name.save('file_name.png')`, provided selenium and the relevant driver is installed. 
+The input `dataframe` can have at minimum a column for unique dates (in YYYY-MM-DD format) and values to be plotted. This can be passed through `df_prepper`, which creates a new column for day, month, and year. Alternatively, the best use-case is for [Spotify](www.spotify.com) extended listening history data, which can be requested under Account settings.Raw json files from this request, called `endsong_n.json` can be globbed together, then passed into `spotify_cleaner` along with the podcast of interest. Future editions will include panels to interact and select different artists or music genres. [Panel](https://panel.holoviz.org/) is used to create a global heatmap and arrange the plots. These can then be saved using the command `panel_name.save('file_name.html')`, which results in an interactive html. To test this, you can download the [podcast visualiztion html](https://github.com/lianamerk/hovercal/blob/main/examples/podcast_hovercal.html) and open it up. Alternatively, you can also download the Panel layours as images with `panel_name.save('file_name.png')` provided selenium and the relevant driver is installed. 
 
 ## Installation
 
-The easiest way to get hovercall up and running is to have a working [Jupyter](https://jupyter.org/install) environment.
+The easiest way to get hovercal up and running is to have a working [Jupyter](https://jupyter.org/install) environment.
 
 ### If you are familiar with package management
 Install directly with `pip install hovercal`
@@ -22,7 +22,7 @@ Now that you have activated the environment, you can run `pip install hovercal`.
 
 To use jupyter in a virtual environment, the quickest way is to create a new kernel. You may need to first `pip install ipykernel`, then tell jupyter what the name of your venv is and to make a kernel based on that, this will make a kernel, probably located in /usr/local/share/jupyter/kernels/test_hovercal: `python -m ipykernel install --name=hovercal_env`. Then just start up jupyter with `jupyter lab` (still in the venv we created above). When jupyter opens, select the “hovercal_env” kernel as opposed to default (which is likely called “Python3”).
 
-From here, you can download the [example notebook](https://github.com/lianamerk/hovercal/blob/af67302503915095c200110f3326e710c25ec0c7/tests/test_viz.ipynb) and run!
+From here, you can download the [example notebook](https://github.com/lianamerk/hovercal/blob/main/tests/test_viz.ipynb) and run!
 
 Whenever you are done with running this package, you can remove the kernel we created:
 `jupyter kernelspec uninstall hovercal_env`
@@ -83,7 +83,7 @@ fruit_panel_1 = hovercal.year_heatmap(fruit_df_prepped,
 fruit_panel_1
 ```
 
-![fruit_example_1](https://github.com/lianamerk/hovercal/blob/6297bc712aed8271715a6e589a6ae77ec8755968/examples/fruit_hovercal_1.png)
+![fruit_example_1](https://github.com/lianamerk/hovercal/blob/main/examples/fruit_hovercal_1.png)
 
 
 With some more tweaking, we can get something a little more.... eyepopping! Note that if we want to view one year, we pass it in as a list: `year_list = [2021]`.
@@ -105,7 +105,7 @@ fruit_panel_2 = hovercal.year_heatmap(fruit_df_prepped,
 fruit_panel_2
 ```
 
-![fruit_example_2](https://github.com/lianamerk/hovercal/blob/6297bc712aed8271715a6e589a6ae77ec8755968/examples/fruit_hovercal_2.png)
+![fruit_example_2](https://github.com/lianamerk/hovercal/blob/main/examples/fruit_hovercal_2.png)
 
 
 To remove the month separators, and have the full day name. We can also show the bokeh tool bar using the kwarg `show_toolbar`:
@@ -129,7 +129,7 @@ fruit_panel_3 = hovercal.year_heatmap(fruit_df_prepped,
 fruit_panel_3
 ```
 
-![fruit_example_3](https://github.com/lianamerk/hovercal/blob/6297bc712aed8271715a6e589a6ae77ec8755968/examples/fruit_hovercal_3.png)
+![fruit_example_3](https://github.com/lianamerk/hovercal/blob/main/examples/fruit_hovercal_3.png)
 
 ## Spotify data
 
@@ -195,7 +195,7 @@ pod_panel = hovercal.year_heatmap(podcast_df,
 pod_panel
 ```
 
-![pod_example](https://github.com/lianamerk/hovercal/blob/6297bc712aed8271715a6e589a6ae77ec8755968/examples/podcast_hovercal.png)
+![pod_example](https://github.com/lianamerk/hovercal/blob/main/examples/podcast_hovercal.png)
 
 # Saving Plots
 Once you are happy with your hovercal plot, you can save it as a static hover-able html with `my_hovercal.save('filename.html')`. You can also save as an
