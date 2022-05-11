@@ -4,8 +4,29 @@ hovercal uses [Holoviews](https://holoviews.org/) to create customizable plots f
 
 ![podVIS](https://github.com/lianamerk/hovercal/blob/6297bc712aed8271715a6e589a6ae77ec8755968/examples/podvis.gif)
 
-
 The input `dataframe` can have at minimum a column for unique dates (in YYYY-MM-DD format) and values to be plotted. This can be passed through `df_prepper`, which creates a new column for day, month, and year. Alternatively, the best use-case is for [Spotify](www.spotify.com) extended listening history data, which can be requested under Account settings.Raw json files from this request, called `endsong_n.json` can be globbed together, then passed into `spotify_cleaner` along with the podcast of interest. Future editions will include panels to interact and select different artists or music genres. [Panel](https://panel.holoviz.org/) is used to create a global heatmap and arrange the plots. These can then be saved using the command `panel_name.save('file_name.png')`, provided selenium and the relevant driver is installed. 
+
+## Installation
+
+The easiest way to get hovercall up and running is to have a working [Jupyter] (https://jupyter.org/install) environment.
+
+### If you are familiar with package management
+Install directly with `pip install hovercal`
+
+### If you want to install in an isolated virtual environment
+If you have enough experience with environment management, feel free to ignore this, and simply `pip install hovercal`. To be safe, you can run hovercal in a clean virtual environment insulated from your native bokeh, panel, pandas, etc. I will walk you through the steps!
+
+First, create an empty venv: `python -m venv hovercal_env`
+Then, activate the venv: `source hovercal_env/bin/activate`. Note on a windows machine, you can run: `hovercal_env\Scripts\actviate.bat`
+Now that you have activated the environment, you can run `pip install hovercal`. You should see things being installed (like panel, holoviews, bokeh, and friends). You probably already have these somewhere, so it might say something like “Using cached bokeh-2.4.2-py3-none-any.whl (18.5 MB)”.
+
+To use jupyter in a virtual environment, the quickest way is to create a new kernel. You may need to first `pip install ipykernel`, then tell jupyter what the name of your venv is and to make a kernel based on that, this will make a kernel, probably located in /usr/local/share/jupyter/kernels/test_hovercal: `python -m ipykernel install --name=hovercal_env`. Then just start up jupyter with `jupyter lab` (still in the venv we created above). When jupyter opens, select the “hovercal_env” kernel as opposed to default (which is likely called “Python3”).
+
+From here, you can download the [example notebook](https://github.com/lianamerk/hovercal/blob/af67302503915095c200110f3326e710c25ec0c7/tests/test_viz.ipynb) and run!
+
+Whenever you are done with running this package, you can remove the kernel we created:
+`jupyter kernelspec uninstall hovercal_env`
+And delete the venv, which will be in your local directory.
 
 ## Examples
 Many plot features are customizable thanks to Holoviews maneuverability. These can be accessed through: `box_separation`, `month_separation`, `outline_color`. Width, color, and alpha can be passed in. Let's take it for a whirl:
