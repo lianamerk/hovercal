@@ -198,5 +198,5 @@ pod_panel
 ![pod_example](https://github.com/lianamerk/hovercal/blob/main/examples/podcast_hovercal.png)
 
 # Saving Plots
-Once you are happy with your hovercal plot, you can save it as a static hover-able html with `my_hovercal.save('filename.html')`. You can also save as an
+Once you are happy with your hovercal plot (let's call it `my_hovercal`), you can save it as a static hover-able html with `my_hovercal.save('filename.html')`. You can also save as a png with `my_hovercal.save('filename.png')`. Note it is not currently possible to increase dpi through panel experts, but this will hopefully be updated in future releases.
 
